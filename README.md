@@ -29,5 +29,3 @@ Below are the projects I have completed as part of the challenge:
 ## Credits
 Challenge created by [Wes Bos](https://wesbos.com/). Check out the challenge at [JavaScript30](https://javascript30.com).
 
-## License
-This project is open-source and available under the [MIT License](LICENSE).
