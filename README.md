@@ -29,3 +29,6 @@ Below are the projects I have completed as part of the challenge:
 ## Credits
 Challenge created by [Wes Bos](https://wesbos.com/). Check out the challenge at [JavaScript30](https://javascript30.com).
 
+
+## Resumed on from 23 Sep 2024
+
